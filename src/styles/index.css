@@ -10,3 +10,28 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.container {
+    margin-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-style: italic;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  ul {
+    padding: 0px;
+    margin-bottom: 0px;
+  }
+  .form-control {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  i {
+    margin-top: 5px;
+  }
+  
